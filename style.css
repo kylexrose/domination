@@ -54,3 +54,7 @@ input, textarea {
 .invisible {
     visibility: hidden;
 }
+
+img {
+    width: 100px;
+}
